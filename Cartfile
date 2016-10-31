@@ -1,6 +1,6 @@
-github "sergeyslavin/KGNColor"
-github "sergeyslavin/KGNAutoLayout"
-github "sergeyslavin/KGNGradientView"
-github "sergeyslavin/KGNPreferredFontManager"
+github "sergeyslavin/KGNColor" "master"
+github "sergeyslavin/KGNAutoLayout" "master"
+github "sergeyslavin/KGNGradientView" "master"
+github "sergeyslavin/KGNPreferredFontManager" "master"
 
-github "sergeyslavin/NSDate-TimeAgo"
+github "sergeyslavin/NSDate-TimeAgo" "master"
